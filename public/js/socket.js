@@ -1,4 +1,7 @@
-var socket = io();
+
+//come back to this later, socket/io not defined
+// var io = require('socket.io');
+// var socket = io();
 
 $('form').submit(function(){
   socket.emit('chat message', $('#m').val());
