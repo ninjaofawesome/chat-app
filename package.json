@@ -1,0 +1,25 @@
+{
+  "name": "chat-app",
+  "version": "0.0.0",
+  "description": "chat the day away the node.js way!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ninjaofawesome/chat-app"
+  },
+  "keywords": [
+    "node",
+    "socket",
+    "code",
+    "challege"
+  ],
+  "author": "Hannah Nordgren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninjaofawesome/chat-app/issues"
+  },
+  "homepage": "https://github.com/ninjaofawesome/chat-app"
+}
