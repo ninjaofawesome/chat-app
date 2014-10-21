@@ -11,15 +11,18 @@
     "url": "https://github.com/ninjaofawesome/chat-app"
   },
   "keywords": [
-    "node",
-    "socket",
-    "code",
-    "challege"
+    "node.js",
+    "socket.io",
+    "javascript"
   ],
   "author": "Hannah Nordgren",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ninjaofawesome/chat-app/issues"
   },
-  "homepage": "https://github.com/ninjaofawesome/chat-app"
+  "homepage": "https://github.com/ninjaofawesome/chat-app",
+  "dependencies": {
+    "express": "^4.9.8",
+    "socket.io": "^1.1.0"
+  }
 }
